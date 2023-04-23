@@ -1,0 +1,12 @@
+.avatar-subs{
+width: 2em;
+height: 2em;
+border-radius: 100%;
+}
+.noview-mark{
+    font-size: 8px;
+}
+.card-subs :hover{
+    background-color: rgb(247, 247, 247);
+    border-radius: 18px;
+}
